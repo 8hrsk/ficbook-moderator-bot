@@ -1,0 +1,16 @@
+{
+    "TOKEN": "Your Telegram Token",
+    "botData": {
+        "version": "0.2.0 IN DEVELOPMENT",
+        "ownership": "8hoursking",
+        "developers": "8hoursking"
+    },
+
+    "mainChat": "ficbook_chat_official",
+
+    "Spreadsheets": {
+        "ID": "GOOGLE SPREADHIT ID",
+        "private_key": "GOOGLE PRIVATE KEY",
+        "client_email": "GOOGLE CLIENT EMAIL"
+    }
+}
