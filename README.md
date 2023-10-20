@@ -5,7 +5,7 @@ Bot for moderating a ficbook chat in Telegram. Can do notes in Google-Spreadshee
 >[!WARNING]
 >It's abandoned, some functions may not work properly!
 
->**Get started**
+**Get started**
 > - Clone this repository to your local dir,
 > - Use `npm init` and `npm install` to get all needed libraries,
 > - Edit `config.json` and insert your own data,
